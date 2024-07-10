@@ -1,4 +1,4 @@
-#Trie Tree in JAVA
+# Trie Tree in JAVA
 This project is an implementation of a prefix tree in JAVA
 ## Explanation
 - This data structure is optimized to save strings as words
@@ -9,4 +9,4 @@ This project is an implementation of a prefix tree in JAVA
 ## Usage
 1. Run Interface.java
 2. Wait until the dictionary.txt is fully scanned
-3. Choose one of the options. The options described in the Documentation.pdf file
+3. Choose one of the options. The options are described in the Documentation.pdf file
